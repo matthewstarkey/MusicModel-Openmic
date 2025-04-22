@@ -1,0 +1,440 @@
+----------------------------------------------------
+accordion
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       0.96      1.00      0.98      1159
+        True       1.00      0.88      0.94       374
+
+    accuracy                           0.97      1533
+   macro avg       0.98      0.94      0.96      1533
+weighted avg       0.97      0.97      0.97      1533
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.84      0.97      0.90       423
+        True       0.77      0.32      0.45       115
+
+    accuracy                           0.83       538
+   macro avg       0.81      0.65      0.68       538
+weighted avg       0.83      0.83      0.81       538
+
+----------------------------------------------------
+banjo
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       0.98      0.98      0.98      1148
+        True       0.97      0.97      0.97       592
+
+    accuracy                           0.98      1740
+   macro avg       0.98      0.97      0.98      1740
+weighted avg       0.98      0.98      0.98      1740
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.82      0.90      0.86       338
+        True       0.68      0.52      0.59       140
+
+    accuracy                           0.79       478
+   macro avg       0.75      0.71      0.72       478
+weighted avg       0.78      0.79      0.78       478
+
+----------------------------------------------------
+bass
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       0.97      0.99      0.98      1010
+        True       0.96      0.93      0.95       415
+
+    accuracy                           0.97      1425
+   macro avg       0.97      0.96      0.96      1425
+weighted avg       0.97      0.97      0.97      1425
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.82      0.96      0.89       329
+        True       0.83      0.49      0.61       134
+
+    accuracy                           0.82       463
+   macro avg       0.83      0.72      0.75       463
+weighted avg       0.82      0.82      0.81       463
+
+----------------------------------------------------
+cello
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       0.99      0.96      0.97       866
+        True       0.95      0.98      0.96       598
+
+    accuracy                           0.97      1464
+   macro avg       0.97      0.97      0.97      1464
+weighted avg       0.97      0.97      0.97      1464
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.80      0.83      0.81       259
+        True       0.79      0.76      0.78       226
+
+    accuracy                           0.80       485
+   macro avg       0.80      0.79      0.79       485
+weighted avg       0.80      0.80      0.80       485
+
+----------------------------------------------------
+clarinet
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       0.92      1.00      0.96      1349
+        True       1.00      0.70      0.82       396
+
+    accuracy                           0.93      1745
+   macro avg       0.96      0.85      0.89      1745
+weighted avg       0.94      0.93      0.93      1745
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.80      0.99      0.88       503
+        True       0.71      0.09      0.16       137
+
+    accuracy                           0.80       640
+   macro avg       0.75      0.54      0.52       640
+weighted avg       0.78      0.80      0.73       640
+
+----------------------------------------------------
+cymbals
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       1.00      0.90      0.95       485
+        True       0.94      1.00      0.97       814
+
+    accuracy                           0.96      1299
+   macro avg       0.97      0.95      0.96      1299
+weighted avg       0.97      0.96      0.96      1299
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.95      0.85      0.90       139
+        True       0.93      0.98      0.96       297
+
+    accuracy                           0.94       436
+   macro avg       0.94      0.91      0.93       436
+weighted avg       0.94      0.94      0.94       436
+
+----------------------------------------------------
+drums
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       1.00      0.95      0.98       495
+        True       0.97      1.00      0.99       828
+
+    accuracy                           0.98      1323
+   macro avg       0.99      0.98      0.98      1323
+weighted avg       0.98      0.98      0.98      1323
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.93      0.79      0.86       146
+        True       0.90      0.97      0.93       278
+
+    accuracy                           0.91       424
+   macro avg       0.91      0.88      0.89       424
+weighted avg       0.91      0.91      0.91       424
+
+----------------------------------------------------
+flute
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       0.97      0.99      0.98      1050
+        True       0.98      0.94      0.96       472
+
+    accuracy                           0.98      1522
+   macro avg       0.98      0.97      0.97      1522
+weighted avg       0.98      0.98      0.98      1522
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.76      0.91      0.83       387
+        True       0.65      0.37      0.47       175
+
+    accuracy                           0.74       562
+   macro avg       0.71      0.64      0.65       562
+weighted avg       0.73      0.74      0.72       562
+
+----------------------------------------------------
+guitar
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       1.00      0.95      0.98       362
+        True       0.98      1.00      0.99       852
+
+    accuracy                           0.99      1214
+   macro avg       0.99      0.98      0.98      1214
+weighted avg       0.99      0.99      0.99      1214
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.97      0.97      0.97       150
+        True       0.98      0.98      0.98       286
+
+    accuracy                           0.98       436
+   macro avg       0.97      0.97      0.97       436
+weighted avg       0.98      0.98      0.98       436
+
+----------------------------------------------------
+mallet_percussion
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       1.00      0.95      0.97       802
+        True       0.93      1.00      0.96       522
+
+    accuracy                           0.97      1324
+   macro avg       0.96      0.97      0.97      1324
+weighted avg       0.97      0.97      0.97      1324
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.77      0.84      0.81       267
+        True       0.78      0.69      0.73       211
+
+    accuracy                           0.77       478
+   macro avg       0.77      0.76      0.77       478
+weighted avg       0.77      0.77      0.77       478
+
+----------------------------------------------------
+mandolin
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       0.97      0.96      0.97      1185
+        True       0.93      0.95      0.94       652
+
+    accuracy                           0.96      1837
+   macro avg       0.95      0.96      0.95      1837
+weighted avg       0.96      0.96      0.96      1837
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.81      0.83      0.82       434
+        True       0.59      0.57      0.58       193
+
+    accuracy                           0.75       627
+   macro avg       0.70      0.70      0.70       627
+weighted avg       0.75      0.75      0.75       627
+
+----------------------------------------------------
+organ
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       0.97      1.00      0.98       977
+        True       1.00      0.93      0.96       482
+
+    accuracy                           0.98      1459
+   macro avg       0.98      0.96      0.97      1459
+weighted avg       0.98      0.98      0.98      1459
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.76      0.95      0.85       310
+        True       0.67      0.25      0.36       121
+
+    accuracy                           0.75       431
+   macro avg       0.72      0.60      0.60       431
+weighted avg       0.74      0.75      0.71       431
+
+----------------------------------------------------
+piano
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       1.00      0.96      0.98       420
+        True       0.98      1.00      0.99       885
+
+    accuracy                           0.99      1305
+   macro avg       0.99      0.98      0.99      1305
+weighted avg       0.99      0.99      0.99      1305
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.96      0.85      0.90       130
+        True       0.93      0.98      0.96       285
+
+    accuracy                           0.94       415
+   macro avg       0.94      0.91      0.93       415
+weighted avg       0.94      0.94      0.94       415
+
+----------------------------------------------------
+saxophone
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       0.99      0.94      0.97       906
+        True       0.94      0.99      0.96       830
+
+    accuracy                           0.96      1736
+   macro avg       0.97      0.97      0.96      1736
+weighted avg       0.97      0.96      0.96      1736
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.85      0.80      0.83       324
+        True       0.80      0.86      0.83       305
+
+    accuracy                           0.83       629
+   macro avg       0.83      0.83      0.83       629
+weighted avg       0.83      0.83      0.83       629
+
+----------------------------------------------------
+synthesizer
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       0.99      0.95      0.97       399
+        True       0.98      1.00      0.99       823
+
+    accuracy                           0.98      1222
+   macro avg       0.99      0.98      0.98      1222
+weighted avg       0.98      0.98      0.98      1222
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.94      0.90      0.92       112
+        True       0.96      0.97      0.97       268
+
+    accuracy                           0.95       380
+   macro avg       0.95      0.94      0.94       380
+weighted avg       0.95      0.95      0.95       380
+
+----------------------------------------------------
+trombone
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       0.95      0.98      0.97      1405
+        True       0.95      0.89      0.92       635
+
+    accuracy                           0.95      2040
+   macro avg       0.95      0.94      0.94      2040
+weighted avg       0.95      0.95      0.95      2040
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.81      0.92      0.87       492
+        True       0.77      0.54      0.63       228
+
+    accuracy                           0.80       720
+   macro avg       0.79      0.73      0.75       720
+weighted avg       0.80      0.80      0.79       720
+
+----------------------------------------------------
+trumpet
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       0.97      0.97      0.97      1303
+        True       0.96      0.95      0.95       828
+
+    accuracy                           0.96      2131
+   macro avg       0.96      0.96      0.96      2131
+weighted avg       0.96      0.96      0.96      2131
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.77      0.88      0.82       467
+        True       0.78      0.62      0.69       318
+
+    accuracy                           0.78       785
+   macro avg       0.78      0.75      0.76       785
+weighted avg       0.78      0.78      0.77       785
+
+----------------------------------------------------
+ukulele
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       0.97      0.98      0.98      1279
+        True       0.96      0.93      0.94       556
+
+    accuracy                           0.97      1835
+   macro avg       0.96      0.95      0.96      1835
+weighted avg       0.97      0.97      0.96      1835
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.81      0.88      0.84       408
+        True       0.67      0.54      0.60       182
+
+    accuracy                           0.78       590
+   macro avg       0.74      0.71      0.72       590
+weighted avg       0.77      0.78      0.77       590
+
+----------------------------------------------------
+violin
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       1.00      0.88      0.94       623
+        True       0.91      1.00      0.95       779
+
+    accuracy                           0.95      1402
+   macro avg       0.96      0.94      0.94      1402
+weighted avg       0.95      0.95      0.95      1402
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.87      0.70      0.78       237
+        True       0.84      0.94      0.88       394
+
+    accuracy                           0.85       631
+   macro avg       0.85      0.82      0.83       631
+weighted avg       0.85      0.85      0.84       631
+
+----------------------------------------------------
+voice
+	TRAIN
+              precision    recall  f1-score   support
+
+       False       1.00      0.91      0.95       426
+        True       0.95      1.00      0.98       764
+
+    accuracy                           0.97      1190
+   macro avg       0.97      0.95      0.96      1190
+weighted avg       0.97      0.97      0.97      1190
+
+	TEST
+              precision    recall  f1-score   support
+
+       False       0.94      0.89      0.91       150
+        True       0.93      0.96      0.94       224
+
+    accuracy                           0.93       374
+   macro avg       0.93      0.92      0.93       374
+weighted avg       0.93      0.93      0.93       374
+
